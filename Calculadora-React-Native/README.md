@@ -1,15 +1,10 @@
-# Calculator-React-Native
+Calculator-React-Native
+Mi primera aplicación React Native - una aplicación de calculadora básica.
 
-My first React Native app - a basic calculator app.
-
-You can download it from play store:
+Puedes descargarlo desde Play Store:
 
 https://play.google.com/store/apps/details?id=com.professionalbakait.calculator
 
-
-I followed this tutorial and I highly recommend it if you're a beginner:
+Seguí este tutorial y lo recomiendo altamente si eres un principiante:
 
 https://www.youtube.com/watch?v=EMoXvr0Q9LE&list=PLYxzS__5yYQlHANFLwcsSzt3elIbYTG1h
-
-
-Twitter: @thetanuj
